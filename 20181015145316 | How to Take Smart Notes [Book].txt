@@ -5,3 +5,5 @@ Sönke Ahrens
 
 Describes using the Zettelkasten (slip box) system to take notes in a structured way, and how to write effectively using these notes.
 
+#read
+
